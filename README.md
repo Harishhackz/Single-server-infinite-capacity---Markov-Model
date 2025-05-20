@@ -24,6 +24,10 @@ This is a queuing model in which the arrival is Marcovian and departure distribu
 
  
 ## Program
+```
+Name: HARISH B
+Reg No: 212223040061
+```
 
 ```py
 
